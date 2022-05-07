@@ -30,6 +30,10 @@ path = "src/abc081b-shift-only.rs"
 name = "coins"
 path = "src/abc087b-coins.rs"
 
+[[bin]]
+name = "some-sums"
+path = "src/abc083b-some-sums.rs"
+
 [dependencies]
 # AtCoder 2020年言語アップデート以降に使用できるクレート。
 # 次のページに各クレートについての細かい紹介があります。
