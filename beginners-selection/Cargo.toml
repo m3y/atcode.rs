@@ -18,6 +18,10 @@ path = "src/practicea.rs"
 name = "product"
 path = "src/abc086a-product.rs"
 
+[[bin]]
+name = "placing-marbles"
+path = "src/abc081a-placing-marbles.rs"
+
 [dependencies]
 # AtCoder 2020年言語アップデート以降に使用できるクレート。
 # 次のページに各クレートについての細かい紹介があります。
