@@ -34,6 +34,10 @@ path = "src/abc087b-coins.rs"
 name = "some-sums"
 path = "src/abc083b-some-sums.rs"
 
+[[bin]]
+name = "card-game-for-two"
+path = "src/abc088b-card-game-for-two.rs"
+
 [dependencies]
 # AtCoder 2020年言語アップデート以降に使用できるクレート。
 # 次のページに各クレートについての細かい紹介があります。
