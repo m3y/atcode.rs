@@ -46,6 +46,10 @@ path = "src/abc085b-kagami-mochi.rs"
 name = "otoshidama"
 path = "src/abc085c-otoshidama.rs"
 
+[[bin]]
+name = "daydream"
+path = "src/abc049c-daydream.rs"
+
 [dependencies]
 # AtCoder 2020年言語アップデート以降に使用できるクレート。
 # 次のページに各クレートについての細かい紹介があります。
